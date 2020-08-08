@@ -31,5 +31,8 @@ ssh-keygen -c rsa  然后一直回车，直到看到下图
   known_hosts 文件
   
   ```
+  
+  ## git pull
+        在本地项目下使用git pull 命令，可以更新远程项目的内容
 
   
